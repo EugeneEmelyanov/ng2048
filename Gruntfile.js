@@ -114,7 +114,7 @@ module.exports = function (grunt) {
     },
 
     ngtemplates: {
-      twentyfourtyeightApp: {
+      app2048: {
         src: '<%= yeoman.app %>/scripts/**/*.html',
         dest: '<%= yeoman.dist %>/scripts/templates.js',
         options: {
